@@ -1,0 +1,10 @@
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\bin\Debug\Week14_Program11.exe.config
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\bin\Debug\Week14_Program11.exe
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\bin\Debug\Week14_Program11.pdb
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\bin\Debug\Week14_Program11.xml
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\obj\Debug\Week14_Program11.Customer.resources
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\obj\Debug\Week14_Program11.Resources.resources
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\obj\Debug\Week14_Program11.vbproj.GenerateResource.Cache
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\obj\Debug\Week14_Program11.exe
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\obj\Debug\Week14_Program11.xml
+C:\Pierre System Programming\School\Delaware County College C\Visual Basic\PROGRAM and CODES\Week14_Program11\Week14_Program11\obj\Debug\Week14_Program11.pdb
